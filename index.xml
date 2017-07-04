@@ -17,8 +17,8 @@
       <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
       
       <guid>/post/exploring-nuforc-sightings/</guid>
-      <description>Code &amp;amp; data from this post are available here.
-When my dad took me to the library as a kid, I used to love hanging out in the UFOlogy section, reading about classified military aircraft and stories of close encounters. I’m less convinced now that hooting tentacle monsters will be landing in our backyards anytime soon, but I was super excited to see that Kaggle had posted a dataset compiling UFO sightings across the US.</description>
+      <description>R code used for each of the graphics is available here.
+While flipping through an issue of the Economist a few years ago, I stumbled across an article summarizing UFO sightings reported across the US. It wasn’t a full feature, but the topic was playful and I lingered on it longer than I spent with the rest of the issue.</description>
     </item>
     
     <item>
