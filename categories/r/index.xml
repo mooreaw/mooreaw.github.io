@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>R on semi documented life</title>
-    <link>/categories/r/</link>
+    <link>https://mooreaw.github.io/categories/r/</link>
     <description>Recent content in R on semi documented life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mooreaw.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>exploring NUFORC sightings</title>
-      <link>/post/exploring-nuforc-sightings/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://mooreaw.github.io/post/exploring-nuforc-sightings/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/post/exploring-nuforc-sightings/</guid>
+      <guid>https://mooreaw.github.io/post/exploring-nuforc-sightings/</guid>
       <description>R code used for each of the graphics is available here.
 While flipping through an issue of the Economist a few years ago, I stumbled across an article summarizing UFO sightings reported across the US. It wasn’t a full feature, but the topic was playful and I lingered on it longer than I spent with the rest of the issue.</description>
     </item>

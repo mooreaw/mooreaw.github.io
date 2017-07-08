@@ -2,57 +2,57 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on semi documented life</title>
-    <link>/tags/</link>
+    <link>https://mooreaw.github.io/tags/</link>
     <description>Recent content in Tags on semi documented life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 10 Jun 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mooreaw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Data Analysis</title>
-      <link>/tags/data-analysis/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://mooreaw.github.io/tags/data-analysis/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-analysis/</guid>
+      <guid>https://mooreaw.github.io/tags/data-analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Viz</title>
-      <link>/tags/data-viz/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://mooreaw.github.io/tags/data-viz/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-viz/</guid>
+      <guid>https://mooreaw.github.io/tags/data-viz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kaggle</title>
-      <link>/tags/kaggle/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://mooreaw.github.io/tags/kaggle/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/kaggle/</guid>
+      <guid>https://mooreaw.github.io/tags/kaggle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>/tags/r/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://mooreaw.github.io/tags/r/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/r/</guid>
+      <guid>https://mooreaw.github.io/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ufos</title>
-      <link>/tags/ufos/</link>
-      <pubDate>Sat, 10 Jun 2017 00:00:00 +0000</pubDate>
+      <link>https://mooreaw.github.io/tags/ufos/</link>
+      <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ufos/</guid>
+      <guid>https://mooreaw.github.io/tags/ufos/</guid>
       <description></description>
     </item>
     
