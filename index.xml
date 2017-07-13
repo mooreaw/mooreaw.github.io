@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>semi documented life</title>
-    <link>https://mooreaw.github.io/</link>
+    <link>/</link>
     <description>Recent content on semi documented life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://mooreaw.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>exploring NUFORC sightings</title>
-      <link>https://mooreaw.github.io/post/exploring-nuforc-sightings/</link>
+      <link>/post/exploring-nuforc-sightings/</link>
       <pubDate>Sat, 08 Jul 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mooreaw.github.io/post/exploring-nuforc-sightings/</guid>
+      <guid>/post/exploring-nuforc-sightings/</guid>
       <description>R code used for each of the graphics is available here.
 While flipping through an issue of the Economist a few years ago, I stumbled across an article summarizing UFO sightings reported across the US. It wasn’t a full feature, but the topic was playful and I lingered on it longer than I spent with the rest of the issue.</description>
     </item>
     
     <item>
       <title>about me</title>
-      <link>https://mooreaw.github.io/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 09 Jun 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://mooreaw.github.io/about/</guid>
+      <guid>/about/</guid>
       <description>Hi! I&amp;rsquo;m Andrew. I live in Ann Arbor MI, and currently work at the University of Michigan&amp;rsquo;s School of Social Work. I&amp;rsquo;m attached to the Child &amp;amp; Adolescent Data Lab as a data analyst where my work focuses on cleaning and analyzing administrative data from child welfare and juvenile justice systems. Our research focuses largely on integrating and linking allied service systems to study family and youth outcomes to inform practice and policy.</description>
     </item>
     
