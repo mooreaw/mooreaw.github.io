@@ -6,10 +6,19 @@
     <description>Recent content in R on semi documented life</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sat, 08 Jul 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Oct 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/categories/r/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>climbing into the crater: taking a second look at family net worth with the SCF</title>
+      <link>/post/climbing-into-the-crater/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/post/climbing-into-the-crater/</guid>
+      <description>Matt Bruenig at the People’s Policy Project (PPP) published a post last week looking at 2016 data for family net worth as reported by the Survey of Consumer Finance (SCF). The post’s title was provacative (“Black Wealth Cratered Under Obama”), and the same goes for the findings being discussed. Using the 2007 and 2016 waves of the survey, Bruenig grouped family net worth into percentiles, and took the difference between each point.</description>
+    </item>
     
     <item>
       <title>exploring NUFORC sightings</title>
